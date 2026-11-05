@@ -1,0 +1,14 @@
+{
+  "name": "backcountry-site",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Backcountry Magazine as a static site: story files in, plain HTML out.",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "check": "node src/build.mjs --check",
+    "build": "node src/build.mjs",
+    "preview": "node src/build.mjs --drafts --out=preview && node src/serve.mjs preview",
+    "blocks": "node src/blocks-doc.mjs",
+    "test": "node --test"
+  }
+}

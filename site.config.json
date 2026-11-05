@@ -1,0 +1,78 @@
+{
+  "name": "Backcountry Magazine",
+  "wordmark": "BACKCOUNTRY",
+  "issue": "No. 168",
+  "url": "https://backcountrymagazine.com",
+  "description": "Stories, gear reviews and mountain skills for backcountry skiers and riders.",
+
+  "categories": {
+    "stories": { "label": "Stories", "title": "Stories" },
+    "gear": { "label": "Gear", "title": "Gear reviews" }
+  },
+
+  "tags": {
+    "mountain-skills": "Mountain Skills"
+  },
+
+  "perPage": 24,
+
+  "home": {
+    "latestCount": 3,
+    "gearCount": 6,
+    "learnTag": "mountain-skills",
+    "learnCount": 3
+  },
+
+  "nav": [
+    { "label": "Read", "url": "/stories/" },
+    { "label": "Watch", "url": "https://backcountrymagazine.com/videos/" },
+    { "label": "Listen", "url": "https://backcountrymagazine.com/podcast/" },
+    { "label": "Learn", "url": "/tag/mountain-skills/" },
+    { "label": "Gear", "url": "/gear/" },
+    { "label": "Basecamp", "url": "https://backcountrymagazine.com/backcountry-basecamp-2027/" },
+    { "label": "Store", "url": "https://shop.holpublications.com/collections/backcountry" }
+  ],
+
+  "subscribe": {
+    "url": "https://backcountrymagazine.com/subscribe/",
+    "headline": "Five issues a winter. $50 for the year.",
+    "text": "Long-form stories, photography and gear reviews in print, all season long."
+  },
+
+  "newsletter": {
+    "url": "https://backcountrymagazine.com/newslettersignup/",
+    "text": "New stories, gear reviews and event news in your inbox."
+  },
+
+  "footer": {
+    "address": ["60 Main Street, P.O. Box 190", "Jeffersonville, VT 05464", "802.644.6606"],
+    "columns": [
+      {
+        "label": "Magazine",
+        "links": [
+          { "label": "Current issue", "url": "https://backcountrymagazine.com/168" },
+          { "label": "Back issues", "url": "https://backcountrymagazine.com/cover-archives/" },
+          { "label": "Renew", "url": "https://backcountrymagazine.com/subscriptions/renew-your-backcountry-subscription/" },
+          { "label": "Digital app", "url": "https://apps.apple.com/us/app/backcountry-magazine/id567160109" }
+        ]
+      },
+      {
+        "label": "About",
+        "links": [
+          { "label": "Who we are", "url": "https://backcountrymagazine.com/magazine/" },
+          { "label": "Submissions", "url": "https://backcountrymagazine.com/magazine/submission-guidelines/" },
+          { "label": "Carry us in your shop", "url": "https://backcountrymagazine.com/shops/" },
+          { "label": "Contact", "url": "https://backcountrymagazine.com/contact/" }
+        ]
+      },
+      {
+        "label": "Follow",
+        "links": [
+          { "label": "Instagram", "url": "https://www.instagram.com/backcountrymag/" },
+          { "label": "Facebook", "url": "https://www.facebook.com/backcountrymagazine" },
+          { "label": "RSS feed", "url": "/feed.xml" }
+        ]
+      }
+    ]
+  }
+}

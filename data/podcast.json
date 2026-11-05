@@ -1,0 +1,10 @@
+{
+  "title": "The Backcountry Podcast",
+  "text": "Long conversations with athletes, guides, designers and activists, hosted by Adam Howard.",
+  "url": "https://backcountrymagazine.com/podcast/",
+  "episodes": [
+    { "number": 42, "title": "Doug Stoup: The Iceman", "summary": "Polar exploration, Antarctica and skiing with Doug Coombs.", "url": "https://backcountrymagazine.com/podcast/#episode42" },
+    { "number": 41, "title": "Tele Mike Russell: Turns for All", "summary": "Building the National Brotherhood of Skiers’ backcountry program.", "url": "https://backcountrymagazine.com/podcast/#episode41" },
+    { "number": 40, "title": "Eric Blehm: Meet Your Heroes", "summary": "Snowboarding’s early days and the story behind The Darkest White.", "url": "https://backcountrymagazine.com/podcast/#episode40" }
+  ]
+}

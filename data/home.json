@@ -1,0 +1,37 @@
+{
+  "promo": {
+    "label": "Now shipping",
+    "title": "The 2027 Gear Guide",
+    "text": "A full season of testing, bound into one issue: skis, boots, bindings, splitboards and apparel, reviewed by our editors and testers.",
+    "cover": "",
+    "coverAlt": "Cover of Issue 168, the 2027 Gear Guide",
+    "buttons": [
+      { "label": "Get the print edition", "url": "https://height-of-land-publications-2.myshopify.com/cart/52516484874456:1?channel=buy_button" },
+      { "label": "Get the digital edition", "url": "https://height-of-land-publications-2.myshopify.com/cart/52516484907224:1?channel=buy_button" }
+    ]
+  },
+  "learn": {
+    "tool": {
+      "label": "Reference",
+      "title": "Uphill Travel Guide",
+      "text": "Skinning policies at U.S. resorts: where and when you can climb, whether it’s free during operating hours, and a link to each resort’s rules.",
+      "linkLabel": "Look up a resort",
+      "url": "https://backcountrymagazine.com/uphill-travel-guide-resort-skinning-policies/"
+    },
+    "links": [
+      { "label": "Avalanche resources", "url": "https://backcountrymagazine.com/bca-avy-resource-dates/" },
+      { "label": "Ski Mountaineering Skills with Andrew McLean", "url": "https://backcountrymagazine.com/basecamp-tv-season-2/" }
+    ]
+  },
+  "films": {
+    "title": "Film series",
+    "text": "Short films and skills series from the people and places that shape the sport.",
+    "url": "https://backcountrymagazine.com/videos/",
+    "items": [
+      { "title": "The New Class", "url": "https://backcountrymagazine.com/newclass/", "thumb": "" },
+      { "title": "Backcountry Bound", "url": "https://backcountrymagazine.com/bound/", "thumb": "" },
+      { "title": "Ski Mountaineering Skills with Andrew McLean", "url": "https://backcountrymagazine.com/basecamp-t-v-s-ski-mountaineering-skills-with-andrew-mclean/", "thumb": "" },
+      { "title": "The Grand Traverse", "url": "https://backcountrymagazine.com/videos/the-grand-traverse-short-film-celebrates-an-iconic-colorado-ski-race/", "thumb": "" }
+    ]
+  }
+}
